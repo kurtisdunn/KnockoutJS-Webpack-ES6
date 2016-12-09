@@ -1,0 +1,24 @@
+@import 'bootstrap';
+
+html, body {
+  //color: #3F4041;
+  height: 100%;
+}
+
+html {
+  background:#edf3f3;
+}
+
+body {
+	background-color: transparent;
+}
+
+h1{
+  font-size: 1.5rem
+}
+
+.main{
+  padding: 15px 15px;
+  background: #fff;
+  min-height:100%;
+}
